@@ -1,0 +1,7 @@
+C:\Users\HP DX\source\repos\Fibbonaci_Ortalama\Fibbonaci_Ortalama\bin\Debug\Fibbonaci_Ortalama.exe.config
+C:\Users\HP DX\source\repos\Fibbonaci_Ortalama\Fibbonaci_Ortalama\bin\Debug\Fibbonaci_Ortalama.exe
+C:\Users\HP DX\source\repos\Fibbonaci_Ortalama\Fibbonaci_Ortalama\bin\Debug\Fibbonaci_Ortalama.pdb
+C:\Users\HP DX\source\repos\Fibbonaci_Ortalama\Fibbonaci_Ortalama\obj\Debug\Fibbonaci_Ortalama.csprojAssemblyReference.cache
+C:\Users\HP DX\source\repos\Fibbonaci_Ortalama\Fibbonaci_Ortalama\obj\Debug\Fibbonaci_Ortalama.csproj.CoreCompileInputs.cache
+C:\Users\HP DX\source\repos\Fibbonaci_Ortalama\Fibbonaci_Ortalama\obj\Debug\Fibbonaci_Ortalama.exe
+C:\Users\HP DX\source\repos\Fibbonaci_Ortalama\Fibbonaci_Ortalama\obj\Debug\Fibbonaci_Ortalama.pdb
